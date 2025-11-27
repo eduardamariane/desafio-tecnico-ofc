@@ -1,25 +1,29 @@
 Desafio em C# (.NET 8)
 
-Este projeto reúne três exercícios feitos em C#.
-Todos os exercícios podem ser executados pelo próprio menu no console com "dotnet run".
+Desafio em C#, executados a partir de um menu interativo no console com dotnet run.
 
-1 - Cálculo de Comissão
-2 - Movimentação de Estoquenão
-3 - Cálculo de Juros
-0 - Sair
+📌 Menu 
+1 — Cálculo de Comissão
+2 — Movimentação de Estoque
+3 — Cálculo de Juros
 
-Estrutura do projeto
-Program.cs
-Exercicio1_Comissao.cs
-Exercicio2_Estoque.cs
-Exercicio3_Juros.cs
+** Estrutura do Projeto
+/
+├── Program.cs
+├── Exercicio1_Comissao.cs
+├── Exercicio2_Estoque.cs
+└── Exercicio3_Juros.cs
 
-Exercício 1 — Comissão
-Calcula a comissão com base em uma lista de vendas.
-As regras aplicadas variam de acordo com o valor de cada venda, e no final é exibido o total de comissão por vendedor.
+** Exercício 1 — Comissão
 
-Exercício 2 — Estoque
-Simula um controle simples de estoque, registrando entrada ou saída de um produto e mostra o estoque final após a movimentação.
+Calcula a comissão de cada vendedor com base na lista de vendas.
+As regras variam conforme o valor da venda, e no final o programa exibe o total de comissão por vendedor.
 
-Exercício 3 — Juros
-Recebe um valor e uma data de vencimento e calcula os juros por atraso considerando 2,5% ao dia.
+** Exercício 2 — Estoque
+
+Simula um controle simples de estoque, permitindo registrar entradas e saídas de um produto.
+Após a movimentação, o sistema mostra o estoque final.
+
+** Exercício 3 — Juros
+
+Recebe um valor e uma data de vencimento para calcular os juros por atraso, considerando uma taxa de 2,5% ao dia.
