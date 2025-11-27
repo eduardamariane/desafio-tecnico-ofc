@@ -3,9 +3,9 @@ Desafio em C# (.NET 8)
 Executados a partir de um menu interativo no console com dotnet run.
 
 📌 Menu 
-1 — Cálculo de Comissão
-2 — Movimentação de Estoque
-3 — Cálculo de Juros
+- 1 — Cálculo de Comissão
+- 2 — Movimentação de Estoque
+- 3 — Cálculo de Juros
 
 ** Estrutura do Projeto
 - Program.cs
