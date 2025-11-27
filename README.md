@@ -8,11 +8,10 @@ Desafio em C#, executados a partir de um menu interativo no console com dotnet r
 3 — Cálculo de Juros
 
 ** Estrutura do Projeto
-/
-├── Program.cs
-├── Exercicio1_Comissao.cs
-├── Exercicio2_Estoque.cs
-└── Exercicio3_Juros.cs
+- Program.cs
+- Exercicio1_Comissao.cs
+- Exercicio2_Estoque.cs
+- Exercicio3_Juros.cs
 
 ** Exercício 1 — Comissão
 
