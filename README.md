@@ -1,6 +1,6 @@
 Desafio em C# (.NET 8)
 
-Desafio em C#, executados a partir de um menu interativo no console com dotnet run.
+Executados a partir de um menu interativo no console com dotnet run.
 
 📌 Menu 
 - 1 — Cálculo de Comissão
@@ -12,7 +12,6 @@ Desafio em C#, executados a partir de um menu interativo no console com dotnet r
 - Exercicio1_Comissao.cs  
 - Exercicio2_Estoque.cs  
 - Exercicio3_Juros.cs
-
 
 Exercício 1 — Comissão
 
