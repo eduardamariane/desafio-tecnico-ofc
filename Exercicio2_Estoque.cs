@@ -63,7 +63,7 @@ public static class Exercicio2_Estoque
         Console.WriteLine("\nMovimentações:");
         foreach (var m in movimentos)
         {
-            Console.WriteLine($"ID {m.Id} - Produto {m.CodigoProduto} - {m.Tipo} | Qtd {m.Quantidade} → Estoque agora: {m.EstoqueFinal}");
+            Console.WriteLine($"ID {m.Id} - Produto {m.CodigoProduto} - {m.Tipo} | Qtd {m.Quantidade} -> Estoque agora: {m.EstoqueFinal}");
         }
 
         Console.WriteLine("\n===========================\n");
